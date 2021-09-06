@@ -5,12 +5,12 @@
 ### Markdown
 
 이화여자대학교 일반대학원
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ## Header 2
 ### Header 3
 
