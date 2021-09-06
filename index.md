@@ -5,7 +5,7 @@
 ### Markdown
 
 이화여자대학교 일반대학원
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of people](https://www.google.com/url?sa=i&url=https%3A%2F%2Finews.ewha.ac.kr%2Fnews%2FarticleView.html%3Fidxno%3D32829&psig=AOvVaw24mPUfe0AhfzrOl4b9zk7L&ust=1630993484251000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiJxrHS6fICFQAAAAAdAAAAABAP)
 
 ```markdown
 Syntax highlighted code block
