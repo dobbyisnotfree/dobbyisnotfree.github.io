@@ -4,7 +4,7 @@
 
 ### Markdown
 
-이화여자대학교 일반대학원/인스타툰 그리는 중
+이화여자대학교 일반대학원, 인스타툰 그리는 중
 ![Image of people](https://cdn.inews.ewha.ac.kr/news/photo/202105/32829_10514_557.jpg)
 
 ```markdown
